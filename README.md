@@ -32,7 +32,7 @@ _Reference:_ Ramirez, MD, KW McMahon KW, N Rooney, R W. E-S, and JK Baum  (in re
 
 * ***output_stats.R*** includes code to return summary statistics from a fit MixSIAR model.
 
-* ***Species-specific subfolders:***
+* *Species-specific subfolders:*
   * ***KI_mixsiar_XX.R*** includes code to quantify proportional contributions of carbon sources to individual carnivorous reef fish via essential amino acid (EAA) d13C analysis and Bayesian stable isotope mixing modeling.
 
   * ***KI_discrimination.csv*** is a comma-delimited file containing mean and SDs of discrimination factors used in the SIMMs.
