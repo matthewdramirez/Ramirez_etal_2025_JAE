@@ -1,6 +1,6 @@
 # Ramirez_etal_KIFishTrophic
 
-This repository contains data and R code associated with the article "Robust trophic pathways in carnivorous reef fishes across a major human disturbance gradient," currently accepted at Methods in Ecology and Evolution. 
+This repository contains data and R code associated with the article "Robust trophic pathways in carnivorous reef fishes across a major human disturbance gradient," currently aunder review.
 
 _Reference:_ Ramirez, MD, KW McMahon KW, N Rooney, R W. E-S, and JK Baum  (in review) Robust trophic pathways in carnivorous reef fishes across a major human disturbance gradient.
 
