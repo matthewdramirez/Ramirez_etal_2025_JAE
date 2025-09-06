@@ -1,6 +1,6 @@
 # Ramirez_etal_2025_JournalOfAnimalEcology
 
-This repository contains data and R code associated with the article "Robust trophic pathways in carnivorous reef fishes across a major human disturbance gradient," published in teh Journal of Animal Ecology.
+This repository contains data and R code associated with the article "Robust trophic pathways in carnivorous reef fishes across a major human disturbance gradient," published in the Journal of Animal Ecology.
 
 _Reference:_ Ramirez MD, KW McMahon, N Rooney, RW El-Sabaawi, JK Baum (accepted) "Carbon pathways and trophic attributes are conserved in carnivorous reef fishes across a major human disturbance gradient" Journal of Animal Ecology XX, XXX-XXX. https://doi.org/
 
